@@ -1,12 +1,11 @@
-First of place this code in your local xampp/wampp server.
-create a mysql database with the name as "feedback-system"
-run "php artisan migrate" in command prompt/git bash
-run "php artisan db:seed" to insert admin in database
-After the above setup
-run "npm install"
-run "npm run dev"
-And when npm run dev is running, in new tab
-run "php artisan serve"
+1: First of place this code in your local xampp/wampp server.
+2: create a mysql database with the name as "feedback-system".
+3: run "php artisan migrate" in command prompt/git bash.
+4: run "php artisan db:seed" to insert admin in database.
+5: After the above setup.
+6: run "npm install".
+7: run "npm run dev".
+8: And when npm run dev is running, in new tab run "php artisan. serve".
 
 You can find the demo here:
 https://drive.google.com/file/d/1SNOMhWVIncmi6_5aGSZ2IUia8FspBcB0/view?usp=sharing
