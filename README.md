@@ -8,6 +8,9 @@ run "npm run dev"
 And when npm run dev is running, in new tab
 run "php artisan serve"
 
+You can find the demo here:
+https://drive.google.com/file/d/1SNOMhWVIncmi6_5aGSZ2IUia8FspBcB0/view?usp=sharing
+
 
 
 Note: I have uploaded vendor and node modules folder on github just to make sure , you don't have to run composer install. This project runs on php 8.2
